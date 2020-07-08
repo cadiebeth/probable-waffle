@@ -1,0 +1,44 @@
+body {
+   text-align: center;
+    background-color: #FCE99A;
+   }
+
+ #one img
+{width: 100%;
+  padding-bottom: 25%;/* 4:3 Aspect Ratio */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#two img
+{width: 80%;
+  padding-bottom: 25%;/* 4:3 Aspect Ratio */
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#three img
+{width: 60%;
+  padding-bottom: 25%;/* 4:3 Aspect Ratio */
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#four img
+{width: 40%;
+  padding-bottom: 25%;/* 4:3 Aspect Ratio */
+  max-width: 40%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
